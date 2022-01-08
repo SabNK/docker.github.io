@@ -136,7 +136,7 @@ also included below.
     ```
 
     > To install a different version of Compose, substitute `{{site.compose_version}}`
-    > with the version of Compose you want to use.
+    > with the version of Compose you want to use. Keep in mind "v" introduced in tag "v1.25.2"
 
     If you have problems installing with `curl`, see
     [Alternative Install Options](install.md#alternative-install-options) tab above.
